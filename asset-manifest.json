@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.397b4ff2.css",
-    "main.js": "/repository-name/static/js/main.0c5acb96.js",
-    "static/media/12.png": "/repository-name/static/media/12.a338b8e4f5ffc84ff520.png",
-    "static/media/11.webp": "/repository-name/static/media/11.8cc48b2104a53290fb35.webp",
-    "static/media/1.jpg": "/repository-name/static/media/1.215095cfa4222f0a303e.jpg",
-    "static/media/2.jpg": "/repository-name/static/media/2.e5f0a04fd6a623f99e6c.jpg",
-    "static/media/8.webp": "/repository-name/static/media/8.3c62e952b3676aced31d.webp",
-    "static/media/10.webp": "/repository-name/static/media/10.32cbb61d31e307944e91.webp",
-    "static/media/9.jpg": "/repository-name/static/media/9.d75bf90bc36c2b08380d.jpg",
-    "static/media/wp.jpg": "/repository-name/static/media/wp.9dabe211ec553814f335.jpg",
-    "static/media/5.jpg": "/repository-name/static/media/5.7a1d00501ed2ef9c38cd.jpg",
-    "static/media/3.jpg": "/repository-name/static/media/3.7a794106757a04851923.jpg",
-    "static/media/4.webp": "/repository-name/static/media/4.eee507f8e1491223f5c4.webp",
-    "index.html": "/repository-name/index.html",
-    "main.397b4ff2.css.map": "/repository-name/static/css/main.397b4ff2.css.map",
-    "main.0c5acb96.js.map": "/repository-name/static/js/main.0c5acb96.js.map"
+    "main.css": "/digimon-memory-game/static/css/main.cb707815.css",
+    "main.js": "/digimon-memory-game/static/js/main.664e6b75.js",
+    "static/media/12.png": "/digimon-memory-game/static/media/12.a338b8e4f5ffc84ff520.png",
+    "static/media/11.webp": "/digimon-memory-game/static/media/11.8cc48b2104a53290fb35.webp",
+    "static/media/1.jpg": "/digimon-memory-game/static/media/1.215095cfa4222f0a303e.jpg",
+    "static/media/2.jpg": "/digimon-memory-game/static/media/2.e5f0a04fd6a623f99e6c.jpg",
+    "static/media/8.webp": "/digimon-memory-game/static/media/8.3c62e952b3676aced31d.webp",
+    "static/media/10.webp": "/digimon-memory-game/static/media/10.32cbb61d31e307944e91.webp",
+    "static/media/9.jpg": "/digimon-memory-game/static/media/9.d75bf90bc36c2b08380d.jpg",
+    "static/media/wp.jpg": "/digimon-memory-game/static/media/wp.9dabe211ec553814f335.jpg",
+    "static/media/5.jpg": "/digimon-memory-game/static/media/5.7a1d00501ed2ef9c38cd.jpg",
+    "static/media/3.jpg": "/digimon-memory-game/static/media/3.7a794106757a04851923.jpg",
+    "static/media/4.webp": "/digimon-memory-game/static/media/4.eee507f8e1491223f5c4.webp",
+    "index.html": "/digimon-memory-game/index.html",
+    "main.cb707815.css.map": "/digimon-memory-game/static/css/main.cb707815.css.map",
+    "main.664e6b75.js.map": "/digimon-memory-game/static/js/main.664e6b75.js.map"
   },
   "entrypoints": [
-    "static/css/main.397b4ff2.css",
-    "static/js/main.0c5acb96.js"
+    "static/css/main.cb707815.css",
+    "static/js/main.664e6b75.js"
   ]
 }
